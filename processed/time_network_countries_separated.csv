@@ -1,0 +1,997 @@
+Mymensingh,Comilla,313
+Mymensingh,Rangpur,454
+Mymensingh,Khulna,574
+Mymensingh,Rajshahi,340
+Mymensingh,Dhaka,170
+Mymensingh,Chittagong,459
+Comilla,Rangpur,662
+Comilla,Khulna,590
+Comilla,Rajshahi,548
+Comilla,Dhaka,187
+Comilla,Chittagong,176
+Rangpur,Khulna,675
+Rangpur,Rajshahi,323
+Rangpur,Dhaka,510
+Rangpur,Chittagong,803
+Khulna,Rajshahi,469
+Khulna,Dhaka,492
+Khulna,Chittagong,716
+Rajshahi,Dhaka,398
+Rajshahi,Chittagong,691
+Dhaka,Chittagong,317
+Bukittinggi,Mataram,3541
+Bukittinggi,Sukabumi,1894
+Bukittinggi,Cilacap,2126
+Bukittinggi,Pakalongan,2058
+Bukittinggi,Pasuruan,2674
+Bukittinggi,Denpasar,3256
+Bukittinggi,Pematangsiantar,858
+Bukittinggi,Pekanbaru,338
+Bukittinggi,Manado,7570
+Bukittinggi,Yogyakarta,2328
+Bukittinggi,Palu,6405
+Bukittinggi,Samarinda,5399
+Bukittinggi,Cirebon,1909
+Bukittinggi,Tasikmalaya,2032
+Bukittinggi,Bogor,1776
+Bukittinggi,Bengkulu,870
+Bukittinggi,Pontianak,4396
+Bukittinggi,Jember,2874
+Bukittinggi,Jambi,421
+Bukittinggi,Banda Aceh,1546
+Bukittinggi,Balikpapan,5272
+Bukittinggi,Surakarta,2328
+Bukittinggi,Bandar Lampung,1435
+Bukittinggi,Malang,2722
+Bukittinggi,Kupang,6645
+Bukittinggi,Gorontalo,7013
+Bukittinggi,Padang,160
+Bukittinggi,Semarang,2211
+Bukittinggi,Palembang,1039
+Bukittinggi,Bandjarmasin,4715
+Bukittinggi,Ujungpandang,5352
+Bukittinggi,Medan,1042
+Bukittinggi,Bandung,1881
+Bukittinggi,Surabaya,2630
+Bukittinggi,Jakarta,1742
+Mataram,Sukabumi,1903
+Mataram,Cilacap,1643
+Mataram,Pakalongan,1855
+Mataram,Pasuruan,844
+Mataram,Denpasar,320
+Mataram,Pematangsiantar,4318
+Mataram,Pekanbaru,3546
+Mataram,Manado,4211
+Mataram,Yogyakarta,1356
+Mataram,Palu,3046
+Mataram,Samarinda,3853
+Mataram,Cirebon,1630
+Mataram,Tasikmalaya,1781
+Mataram,Bogor,1820
+Mataram,Bengkulu,2894
+Mataram,Pontianak,3618
+Mataram,Jember,725
+Mataram,Jambi,3190
+Mataram,Banda Aceh,5066
+Mataram,Balikpapan,3701
+Mataram,Surakarta,1245
+Mataram,Bandar Lampung,2090
+Mataram,Malang,931
+Mataram,Kupang,3139
+Mataram,Gorontalo,3654
+Mataram,Padang,3509
+Mataram,Semarang,1336
+Mataram,Palembang,2608
+Mataram,Bandjarmasin,3218
+Mataram,Ujungpandang,1993
+Mataram,Medan,4417
+Mataram,Bandung,1786
+Mataram,Surabaya,936
+Mataram,Jakarta,1790
+Sukabumi,Cilacap,477
+Sukabumi,Pakalongan,364
+Sukabumi,Pasuruan,1064
+Sukabumi,Denpasar,1646
+Sukabumi,Pematangsiantar,2715
+Sukabumi,Pekanbaru,1942
+Sukabumi,Manado,5960
+Sukabumi,Yogyakarta,718
+Sukabumi,Palu,4794
+Sukabumi,Samarinda,3789
+Sukabumi,Cirebon,298
+Sukabumi,Tasikmalaya,338
+Sukabumi,Bogor,154
+Sukabumi,Bengkulu,1291
+Sukabumi,Pontianak,2851
+Sukabumi,Jember,1264
+Sukabumi,Jambi,1587
+Sukabumi,Banda Aceh,3463
+Sukabumi,Balikpapan,3662
+Sukabumi,Surakarta,717
+Sukabumi,Bandar Lampung,486
+Sukabumi,Malang,1111
+Sukabumi,Kupang,5034
+Sukabumi,Gorontalo,5402
+Sukabumi,Padang,1905
+Sukabumi,Semarang,600
+Sukabumi,Palembang,1005
+Sukabumi,Bandjarmasin,3104
+Sukabumi,Ujungpandang,3741
+Sukabumi,Medan,2814
+Sukabumi,Bandung,186
+Sukabumi,Surabaya,1019
+Sukabumi,Jakarta,186
+Cilacap,Pakalongan,253
+Cilacap,Pasuruan,795
+Cilacap,Denpasar,1377
+Cilacap,Pematangsiantar,2931
+Cilacap,Pekanbaru,2158
+Cilacap,Manado,5693
+Cilacap,Yogyakarta,294
+Cilacap,Palu,4528
+Cilacap,Samarinda,3579
+Cilacap,Cirebon,243
+Cilacap,Tasikmalaya,180
+Cilacap,Bogor,432
+Cilacap,Bengkulu,1507
+Cilacap,Pontianak,3061
+Cilacap,Jember,995
+Cilacap,Jambi,1802
+Cilacap,Banda Aceh,3679
+Cilacap,Balikpapan,3451
+Cilacap,Surakarta,406
+Cilacap,Bandar Lampung,702
+Cilacap,Malang,828
+Cilacap,Kupang,4766
+Cilacap,Gorontalo,5135
+Cilacap,Padang,2121
+Cilacap,Semarang,389
+Cilacap,Palembang,1220
+Cilacap,Bandjarmasin,2894
+Cilacap,Ujungpandang,3474
+Cilacap,Medan,3030
+Cilacap,Bandung,344
+Cilacap,Surabaya,750
+Cilacap,Jakarta,403
+Pakalongan,Pasuruan,1007
+Pakalongan,Denpasar,1589
+Pakalongan,Pematangsiantar,2861
+Pakalongan,Pekanbaru,2089
+Pakalongan,Manado,5905
+Pakalongan,Yogyakarta,506
+Pakalongan,Palu,4740
+Pakalongan,Samarinda,3773
+Pakalongan,Cirebon,279
+Pakalongan,Tasikmalaya,83
+Pakalongan,Bogor,363
+Pakalongan,Bengkulu,1437
+Pakalongan,Pontianak,2992
+Pakalongan,Jember,1207
+Pakalongan,Jambi,1733
+Pakalongan,Banda Aceh,3609
+Pakalongan,Balikpapan,3646
+Pakalongan,Surakarta,618
+Pakalongan,Bandar Lampung,633
+Pakalongan,Malang,1040
+Pakalongan,Kupang,4978
+Pakalongan,Gorontalo,5347
+Pakalongan,Padang,2051
+Pakalongan,Semarang,585
+Pakalongan,Palembang,1151
+Pakalongan,Bandjarmasin,3089
+Pakalongan,Ujungpandang,3686
+Pakalongan,Medan,2960
+Pakalongan,Bandung,219
+Pakalongan,Surabaya,962
+Pakalongan,Jakarta,333
+Pasuruan,Denpasar,585
+Pasuruan,Pematangsiantar,3479
+Pasuruan,Pekanbaru,2707
+Pasuruan,Manado,5038
+Pasuruan,Yogyakarta,517
+Pasuruan,Palu,3873
+Pasuruan,Samarinda,3063
+Pasuruan,Cirebon,791
+Pasuruan,Tasikmalaya,942
+Pasuruan,Bogor,981
+Pasuruan,Bengkulu,2055
+Pasuruan,Pontianak,2779
+Pasuruan,Jember,203
+Pasuruan,Jambi,2351
+Pasuruan,Banda Aceh,4227
+Pasuruan,Balikpapan,2936
+Pasuruan,Surakarta,406
+Pasuruan,Bandar Lampung,1251
+Pasuruan,Malang,94
+Pasuruan,Kupang,3975
+Pasuruan,Gorontalo,4480
+Pasuruan,Padang,2669
+Pasuruan,Semarang,497
+Pasuruan,Palembang,1769
+Pasuruan,Bandjarmasin,2379
+Pasuruan,Ujungpandang,2819
+Pasuruan,Medan,3578
+Pasuruan,Bandung,947
+Pasuruan,Surabaya,97
+Pasuruan,Jakarta,951
+Denpasar,Pematangsiantar,4023
+Denpasar,Pekanbaru,3251
+Denpasar,Manado,4494
+Denpasar,Yogyakarta,1061
+Denpasar,Palu,3329
+Denpasar,Samarinda,3607
+Denpasar,Cirebon,1335
+Denpasar,Tasikmalaya,1486
+Denpasar,Bogor,1525
+Denpasar,Bengkulu,2600
+Denpasar,Pontianak,3323
+Denpasar,Jember,430
+Denpasar,Jambi,2895
+Denpasar,Banda Aceh,4771
+Denpasar,Balikpapan,3480
+Denpasar,Surakarta,950
+Denpasar,Bandar Lampung,1795
+Denpasar,Malang,636
+Denpasar,Kupang,3422
+Denpasar,Gorontalo,3936
+Denpasar,Padang,3213
+Denpasar,Semarang,1041
+Denpasar,Palembang,2313
+Denpasar,Bandjarmasin,2923
+Denpasar,Ujungpandang,2276
+Denpasar,Medan,4122
+Denpasar,Bandung,1491
+Denpasar,Surabaya,641
+Denpasar,Jakarta,1495
+Pematangsiantar,Pekanbaru,786
+Pematangsiantar,Manado,8340
+Pematangsiantar,Yogyakarta,3098
+Pematangsiantar,Palu,7175
+Pematangsiantar,Samarinda,6169
+Pematangsiantar,Cirebon,2678
+Pematangsiantar,Tasikmalaya,2802
+Pematangsiantar,Bogor,2546
+Pematangsiantar,Bengkulu,1718
+Pematangsiantar,Pontianak,5166
+Pematangsiantar,Jember,3644
+Pematangsiantar,Jambi,1270
+Pematangsiantar,Banda Aceh,909
+Pematangsiantar,Balikpapan,6042
+Pematangsiantar,Surakarta,3097
+Pematangsiantar,Bandar Lampung,2260
+Pematangsiantar,Malang,3492
+Pematangsiantar,Kupang,7415
+Pematangsiantar,Gorontalo,7782
+Pematangsiantar,Padang,975
+Pematangsiantar,Semarang,2981
+Pematangsiantar,Palembang,1719
+Pematangsiantar,Bandjarmasin,5484
+Pematangsiantar,Ujungpandang,6121
+Pematangsiantar,Medan,186
+Pematangsiantar,Bandung,2651
+Pematangsiantar,Surabaya,3399
+Pematangsiantar,Jakarta,2512
+Pekanbaru,Manado,7580
+Pekanbaru,Yogyakarta,2338
+Pekanbaru,Palu,6415
+Pekanbaru,Samarinda,5409
+Pekanbaru,Cirebon,1918
+Pekanbaru,Tasikmalaya,2042
+Pekanbaru,Bogor,1786
+Pekanbaru,Bengkulu,945
+Pekanbaru,Pontianak,4406
+Pekanbaru,Jember,2884
+Pekanbaru,Jambi,497
+Pekanbaru,Banda Aceh,1614
+Pekanbaru,Balikpapan,5282
+Pekanbaru,Surakarta,2337
+Pekanbaru,Bandar Lampung,1500
+Pekanbaru,Malang,2732
+Pekanbaru,Kupang,6655
+Pekanbaru,Gorontalo,7022
+Pekanbaru,Padang,481
+Pekanbaru,Semarang,2221
+Pekanbaru,Palembang,959
+Pekanbaru,Bandjarmasin,4724
+Pekanbaru,Ujungpandang,5361
+Pekanbaru,Medan,890
+Pekanbaru,Bandung,1890
+Pekanbaru,Surabaya,2639
+Pekanbaru,Jakarta,1752
+Manado,Yogyakarta,5429
+Manado,Palu,1242
+Manado,Samarinda,2582
+Manado,Cirebon,5684
+Manado,Tasikmalaya,5854
+Manado,Bogor,5874
+Manado,Bengkulu,6948
+Manado,Pontianak,4295
+Manado,Jember,4902
+Manado,Jambi,7243
+Manado,Banda Aceh,9120
+Manado,Balikpapan,2431
+Manado,Surakarta,5318
+Manado,Bandar Lampung,6144
+Manado,Malang,5094
+Manado,Kupang,5544
+Manado,Gorontalo,603
+Manado,Padang,7562
+Manado,Semarang,5384
+Manado,Palembang,6662
+Manado,Bandjarmasin,3099
+Manado,Ujungpandang,2244
+Manado,Medan,8470
+Manado,Bandung,5839
+Manado,Surabaya,4974
+Manado,Jakarta,5844
+Yogyakarta,Palu,4239
+Yogyakarta,Samarinda,3376
+Yogyakarta,Cirebon,442
+Yogyakarta,Tasikmalaya,431
+Yogyakarta,Bogor,632
+Yogyakarta,Bengkulu,1706
+Yogyakarta,Pontianak,3078
+Yogyakarta,Jember,707
+Yogyakarta,Jambi,2002
+Yogyakarta,Banda Aceh,3878
+Yogyakarta,Balikpapan,3249
+Yogyakarta,Surakarta,118
+Yogyakarta,Bandar Lampung,902
+Yogyakarta,Malang,540
+Yogyakarta,Kupang,4478
+Yogyakarta,Gorontalo,4847
+Yogyakarta,Padang,2320
+Yogyakarta,Semarang,187
+Yogyakarta,Palembang,1420
+Yogyakarta,Bandjarmasin,2692
+Yogyakarta,Ujungpandang,3186
+Yogyakarta,Medan,3229
+Yogyakarta,Bandung,595
+Yogyakarta,Surabaya,462
+Yogyakarta,Jakarta,602
+Palu,Samarinda,1412
+Palu,Cirebon,4509
+Palu,Tasikmalaya,4679
+Palu,Bogor,4699
+Palu,Bengkulu,5773
+Palu,Pontianak,3124
+Palu,Jember,3728
+Palu,Jambi,6069
+Palu,Banda Aceh,7945
+Palu,Balikpapan,1260
+Palu,Surakarta,4143
+Palu,Bandar Lampung,4969
+Palu,Malang,3919
+Palu,Kupang,4369
+Palu,Gorontalo,695
+Palu,Padang,6387
+Palu,Semarang,4209
+Palu,Palembang,5487
+Palu,Bandjarmasin,1929
+Palu,Ujungpandang,1069
+Palu,Medan,7295
+Palu,Bandung,4665
+Palu,Surabaya,3799
+Palu,Jakarta,4669
+Samarinda,Cirebon,3499
+Samarinda,Tasikmalaya,3675
+Samarinda,Bogor,3688
+Samarinda,Bengkulu,4763
+Samarinda,Pontianak,2029
+Samarinda,Jember,3262
+Samarinda,Jambi,5058
+Samarinda,Banda Aceh,6934
+Samarinda,Balikpapan,153
+Samarinda,Surakarta,3334
+Samarinda,Bandar Lampung,3958
+Samarinda,Malang,3110
+Samarinda,Kupang,5240
+Samarinda,Gorontalo,2090
+Samarinda,Padang,5377
+Samarinda,Semarang,3203
+Samarinda,Palembang,4476
+Samarinda,Bandjarmasin,854
+Samarinda,Ujungpandang,1940
+Samarinda,Medan,6285
+Samarinda,Bandung,3654
+Samarinda,Surabaya,2990
+Samarinda,Jakarta,3659
+Cirebon,Tasikmalaya,204
+Cirebon,Bogor,220
+Cirebon,Bengkulu,1295
+Cirebon,Pontianak,2849
+Cirebon,Jember,991
+Cirebon,Jambi,1590
+Cirebon,Banda Aceh,3466
+Cirebon,Balikpapan,3389
+Cirebon,Surakarta,445
+Cirebon,Bandar Lampung,490
+Cirebon,Malang,839
+Cirebon,Kupang,4763
+Cirebon,Gorontalo,5130
+Cirebon,Padang,1908
+Cirebon,Semarang,328
+Cirebon,Palembang,1008
+Cirebon,Bandjarmasin,2832
+Cirebon,Ujungpandang,3469
+Cirebon,Medan,2817
+Cirebon,Bandung,186
+Cirebon,Surabaya,747
+Cirebon,Jakarta,191
+Tasikmalaya,Bogor,346
+Tasikmalaya,Bengkulu,1420
+Tasikmalaya,Pontianak,2975
+Tasikmalaya,Jember,1131
+Tasikmalaya,Jambi,1716
+Tasikmalaya,Banda Aceh,3592
+Tasikmalaya,Balikpapan,3570
+Tasikmalaya,Surakarta,542
+Tasikmalaya,Bandar Lampung,616
+Tasikmalaya,Malang,964
+Tasikmalaya,Kupang,4903
+Tasikmalaya,Gorontalo,5271
+Tasikmalaya,Padang,2034
+Tasikmalaya,Semarang,508
+Tasikmalaya,Palembang,1134
+Tasikmalaya,Bandjarmasin,3012
+Tasikmalaya,Ujungpandang,3610
+Tasikmalaya,Medan,2943
+Tasikmalaya,Bandung,203
+Tasikmalaya,Surabaya,886
+Tasikmalaya,Jakarta,316
+Bogor,Bengkulu,1159
+Bogor,Pontianak,2719
+Bogor,Jember,1189
+Bogor,Jambi,1455
+Bogor,Banda Aceh,3331
+Bogor,Balikpapan,3587
+Bogor,Surakarta,642
+Bogor,Bandar Lampung,355
+Bogor,Malang,1036
+Bogor,Kupang,4960
+Bogor,Gorontalo,5327
+Bogor,Padang,1773
+Bogor,Semarang,525
+Bogor,Palembang,873
+Bogor,Bandjarmasin,3029
+Bogor,Ujungpandang,3666
+Bogor,Medan,2681
+Bogor,Bandung,195
+Bogor,Surabaya,944
+Bogor,Jakarta,55
+Bengkulu,Pontianak,3785
+Bengkulu,Jember,2263
+Bengkulu,Jambi,554
+Bengkulu,Banda Aceh,2430
+Bengkulu,Balikpapan,4661
+Bengkulu,Surakarta,1717
+Bengkulu,Bandar Lampung,806
+Bengkulu,Malang,2111
+Bengkulu,Kupang,6035
+Bengkulu,Gorontalo,6401
+Bengkulu,Padang,781
+Bengkulu,Semarang,1600
+Bengkulu,Palembang,646
+Bengkulu,Bandjarmasin,4104
+Bengkulu,Ujungpandang,4741
+Bengkulu,Medan,1836
+Bengkulu,Bandung,1270
+Bengkulu,Surabaya,2018
+Bengkulu,Jakarta,1131
+Pontianak,Jember,2980
+Pontianak,Jambi,4089
+Pontianak,Banda Aceh,5965
+Pontianak,Balikpapan,1903
+Pontianak,Surakarta,3034
+Pontianak,Bandar Lampung,2989
+Pontianak,Malang,2828
+Pontianak,Kupang,6752
+Pontianak,Gorontalo,3733
+Pontianak,Padang,4408
+Pontianak,Semarang,2914
+Pontianak,Palembang,3507
+Pontianak,Bandjarmasin,1346
+Pontianak,Ujungpandang,3584
+Pontianak,Medan,5316
+Pontianak,Bandung,2824
+Pontianak,Surabaya,2708
+Pontianak,Jakarta,2678
+Jember,Jambi,2551
+Jember,Banda Aceh,4427
+Jember,Balikpapan,3136
+Jember,Surakarta,605
+Jember,Bandar Lampung,1451
+Jember,Malang,292
+Jember,Kupang,3846
+Jember,Gorontalo,4361
+Jember,Padang,2869
+Jember,Semarang,697
+Jember,Palembang,1969
+Jember,Bandjarmasin,2578
+Jember,Ujungpandang,2700
+Jember,Medan,3778
+Jember,Bandung,1147
+Jember,Surabaya,296
+Jember,Jakarta,1151
+Jambi,Banda Aceh,1982
+Jambi,Balikpapan,4947
+Jambi,Surakarta,2002
+Jambi,Bandar Lampung,1119
+Jambi,Malang,2396
+Jambi,Kupang,6320
+Jambi,Gorontalo,6687
+Jambi,Padang,424
+Jambi,Semarang,1885
+Jambi,Palembang,624
+Jambi,Bandjarmasin,4389
+Jambi,Ujungpandang,5026
+Jambi,Medan,1348
+Jambi,Bandung,1555
+Jambi,Surabaya,2304
+Jambi,Jakarta,1417
+Banda Aceh,Balikpapan,6824
+Banda Aceh,Surakarta,3879
+Banda Aceh,Bandar Lampung,2986
+Banda Aceh,Malang,4273
+Banda Aceh,Kupang,8197
+Banda Aceh,Gorontalo,8564
+Banda Aceh,Padang,1678
+Banda Aceh,Semarang,3762
+Banda Aceh,Palembang,2546
+Banda Aceh,Bandjarmasin,6266
+Banda Aceh,Ujungpandang,6903
+Banda Aceh,Medan,752
+Banda Aceh,Bandung,3432
+Banda Aceh,Surabaya,4181
+Banda Aceh,Jakarta,3294
+Balikpapan,Surakarta,3223
+Balikpapan,Bandar Lampung,3847
+Balikpapan,Malang,2999
+Balikpapan,Kupang,5034
+Balikpapan,Gorontalo,1884
+Balikpapan,Padang,5266
+Balikpapan,Semarang,3092
+Balikpapan,Palembang,4365
+Balikpapan,Bandjarmasin,722
+Balikpapan,Ujungpandang,1735
+Balikpapan,Medan,6174
+Balikpapan,Bandung,3543
+Balikpapan,Surabaya,2879
+Balikpapan,Jakarta,3548
+Surakarta,Bandar Lampung,894
+Surakarta,Malang,441
+Surakarta,Kupang,4365
+Surakarta,Gorontalo,4733
+Surakarta,Padang,2313
+Surakarta,Semarang,142
+Surakarta,Palembang,1412
+Surakarta,Bandjarmasin,2632
+Surakarta,Ujungpandang,3072
+Surakarta,Medan,3221
+Surakarta,Bandung,590
+Surakarta,Surabaya,349
+Surakarta,Jakarta,595
+Bandar Lampung,Malang,1313
+Bandar Lampung,Kupang,5237
+Bandar Lampung,Gorontalo,5604
+Bandar Lampung,Padang,1431
+Bandar Lampung,Semarang,802
+Bandar Lampung,Palembang,597
+Bandar Lampung,Bandjarmasin,3306
+Bandar Lampung,Ujungpandang,3943
+Bandar Lampung,Medan,2394
+Bandar Lampung,Bandung,472
+Bandar Lampung,Surabaya,1221
+Bandar Lampung,Jakarta,333
+Malang,Kupang,4055
+Malang,Gorontalo,4522
+Malang,Padang,2711
+Malang,Semarang,539
+Malang,Palembang,1811
+Malang,Bandjarmasin,2420
+Malang,Ujungpandang,2861
+Malang,Medan,3619
+Malang,Bandung,989
+Malang,Surabaya,138
+Malang,Jakarta,993
+Kupang,Gorontalo,4403
+Kupang,Padang,6482
+Kupang,Semarang,4310
+Kupang,Palembang,5582
+Kupang,Bandjarmasin,5119
+Kupang,Ujungpandang,2742
+Kupang,Medan,7391
+Kupang,Bandung,4760
+Kupang,Surabaya,3910
+Kupang,Jakarta,4764
+Gorontalo,Padang,7006
+Gorontalo,Semarang,4828
+Gorontalo,Palembang,6106
+Gorontalo,Bandjarmasin,2543
+Gorontalo,Ujungpandang,1689
+Gorontalo,Medan,7915
+Gorontalo,Bandung,5284
+Gorontalo,Surabaya,4418
+Gorontalo,Jakarta,5288
+Padang,Semarang,2192
+Padang,Palembang,1020
+Padang,Bandjarmasin,4696
+Padang,Ujungpandang,5332
+Padang,Medan,1160
+Padang,Bandung,1862
+Padang,Surabaya,2610
+Padang,Jakarta,1723
+Semarang,Palembang,1296
+Semarang,Bandjarmasin,2524
+Semarang,Ujungpandang,3159
+Semarang,Medan,3105
+Semarang,Bandung,474
+Semarang,Surabaya,437
+Semarang,Jakarta,478
+Palembang,Bandjarmasin,3807
+Palembang,Ujungpandang,4444
+Palembang,Medan,1848
+Palembang,Bandung,973
+Palembang,Surabaya,1722
+Palembang,Jakarta,835
+Bandjarmasin,Ujungpandang,2407
+Bandjarmasin,Medan,5616
+Bandjarmasin,Bandung,2985
+Bandjarmasin,Surabaya,2321
+Bandjarmasin,Jakarta,2989
+Ujungpandang,Medan,6249
+Ujungpandang,Bandung,3618
+Ujungpandang,Surabaya,2752
+Ujungpandang,Jakarta,3622
+Medan,Bandung,2736
+Medan,Surabaya,3485
+Medan,Jakarta,2598
+Bandung,Surabaya,897
+Bandung,Jakarta,153
+Surabaya,Jakarta,896
+Bago,Mandalay,423
+Bago,Naypyidaw,240
+Bago,Rangoon,94
+Mandalay,Naypyidaw,213
+Mandalay,Rangoon,482
+Naypyidaw,Rangoon,295
+Sungai Petani,Alor Setar,57
+Sungai Petani,Seremban,290
+Sungai Petani,Kuala Terengganu,389
+Sungai Petani,Ipoh,128
+Sungai Petani,Kota Baharu,304
+Sungai Petani,Malacca,350
+Sungai Petani,Kuantan,386
+Sungai Petani,Tawau,9029
+Sungai Petani,Sandakan,8991
+Sungai Petani,Kota Kinabalu,8634
+Sungai Petani,George Town,59
+Sungai Petani,Kuching,7600
+Sungai Petani,Kuala Lumpur,238
+Alor Setar,Seremban,327
+Alor Setar,Kuala Terengganu,427
+Alor Setar,Ipoh,165
+Alor Setar,Kota Baharu,342
+Alor Setar,Malacca,387
+Alor Setar,Kuantan,423
+Alor Setar,Tawau,9066
+Alor Setar,Sandakan,9027
+Alor Setar,Kota Kinabalu,8671
+Alor Setar,George Town,96
+Alor Setar,Kuching,7637
+Alor Setar,Kuala Lumpur,275
+Seremban,Kuala Terengganu,337
+Seremban,Ipoh,184
+Seremban,Kota Baharu,447
+Seremban,Malacca,79
+Seremban,Kuantan,213
+Seremban,Tawau,8757
+Seremban,Sandakan,8719
+Seremban,Kota Kinabalu,8362
+Seremban,George Town,284
+Seremban,Kuching,7329
+Seremban,Kuala Lumpur,59
+Kuala Terengganu,Ipoh,343
+Kuala Terengganu,Kota Baharu,168
+Kuala Terengganu,Malacca,369
+Kuala Terengganu,Kuantan,157
+Kuala Terengganu,Tawau,8996
+Kuala Terengganu,Sandakan,8957
+Kuala Terengganu,Kota Kinabalu,8601
+Kuala Terengganu,George Town,418
+Kuala Terengganu,Kuching,7567
+Kuala Terengganu,Kuala Lumpur,280
+Ipoh,Kota Baharu,325
+Ipoh,Malacca,245
+Ipoh,Kuantan,280
+Ipoh,Tawau,8923
+Ipoh,Sandakan,8885
+Ipoh,Kota Kinabalu,8528
+Ipoh,George Town,123
+Ipoh,Kuching,7495
+Ipoh,Kuala Lumpur,133
+Kota Baharu,Malacca,497
+Kota Baharu,Kuantan,284
+Kota Baharu,Tawau,9123
+Kota Baharu,Sandakan,9085
+Kota Baharu,Kota Kinabalu,8728
+Kota Baharu,George Town,334
+Kota Baharu,Kuching,7694
+Kota Baharu,Kuala Lumpur,393
+Malacca,Kuantan,239
+Malacca,Tawau,8746
+Malacca,Sandakan,8708
+Malacca,Kota Kinabalu,8351
+Malacca,George Town,345
+Malacca,Kuching,7317
+Malacca,Kuala Lumpur,120
+Kuantan,Tawau,8858
+Kuantan,Sandakan,8820
+Kuantan,Kota Kinabalu,8463
+Kuantan,George Town,373
+Kuantan,Kuching,7430
+Kuantan,Kuala Lumpur,153
+Tawau,Sandakan,300
+Tawau,Kota Kinabalu,458
+Tawau,George Town,8975
+Tawau,Kuching,1521
+Tawau,Kuala Lumpur,8750
+Sandakan,Kota Kinabalu,362
+Sandakan,George Town,8956
+Sandakan,Kuching,1502
+Sandakan,Kuala Lumpur,8732
+Kota Kinabalu,George Town,8605
+Kota Kinabalu,Kuching,1151
+Kota Kinabalu,Kuala Lumpur,8381
+George Town,Kuching,7594
+George Town,Kuala Lumpur,232
+Kuching,Kuala Lumpur,7366
+Olongapo,Quezon City,128
+Olongapo,Iligan,2101
+Olongapo,Legazpi,791
+Olongapo,Bacolod,1275
+Olongapo,Naga,664
+Olongapo,Angeles,73
+Olongapo,Batangas,220
+Olongapo,Cagayan de Oro,1999
+Olongapo,Zamboanga,2283
+Olongapo,Baguio City,205
+Olongapo,General Santos,2246
+Olongapo,Cebu,1399
+Olongapo,Iloilo,1157
+Olongapo,Davao,2105
+Olongapo,Manila,140
+Quezon City,Iligan,1986
+Quezon City,Legazpi,676
+Quezon City,Bacolod,1161
+Quezon City,Naga,549
+Quezon City,Angeles,77
+Quezon City,Batangas,106
+Quezon City,Cagayan de Oro,1885
+Quezon City,Zamboanga,2169
+Quezon City,Baguio City,216
+Quezon City,General Santos,2132
+Quezon City,Cebu,1284
+Quezon City,Iloilo,1043
+Quezon City,Davao,1990
+Quezon City,Manila,34
+Iligan,Legazpi,1337
+Iligan,Bacolod,892
+Iligan,Naga,1459
+Iligan,Angeles,2049
+Iligan,Batangas,1883
+Iligan,Cagayan de Oro,129
+Iligan,Zamboanga,518
+Iligan,Baguio City,2188
+Iligan,General Santos,519
+Iligan,Cebu,976
+Iligan,Iloilo,1125
+Iligan,Davao,385
+Iligan,Manila,1972
+Legazpi,Bacolod,982
+Legazpi,Naga,149
+Legazpi,Angeles,739
+Legazpi,Batangas,573
+Legazpi,Cagayan de Oro,1234
+Legazpi,Zamboanga,1755
+Legazpi,Baguio City,878
+Legazpi,General Santos,1481
+Legazpi,Cebu,728
+Legazpi,Iloilo,1106
+Legazpi,Davao,1339
+Legazpi,Manila,661
+Bacolod,Naga,1009
+Bacolod,Angeles,1234
+Bacolod,Batangas,1070
+Bacolod,Cagayan de Oro,997
+Bacolod,Zamboanga,1012
+Bacolod,Baguio City,1372
+Bacolod,General Santos,1195
+Bacolod,Cebu,441
+Bacolod,Iloilo,236
+Bacolod,Davao,1219
+Bacolod,Manila,1156
+Naga,Angeles,609
+Naga,Batangas,443
+Naga,Cagayan de Oro,1357
+Naga,Zamboanga,1783
+Naga,Baguio City,748
+Naga,General Santos,1604
+Naga,Cebu,756
+Naga,Iloilo,1133
+Naga,Davao,1462
+Naga,Manila,532
+Angeles,Batangas,171
+Angeles,Cagayan de Oro,1951
+Angeles,Zamboanga,2235
+Angeles,Baguio City,166
+Angeles,General Santos,2197
+Angeles,Cebu,1350
+Angeles,Iloilo,1109
+Angeles,Davao,2056
+Angeles,Manila,92
+Batangas,Cagayan de Oro,1785
+Batangas,Zamboanga,2070
+Batangas,Baguio City,311
+Batangas,General Santos,2031
+Batangas,Cebu,1184
+Batangas,Iloilo,944
+Batangas,Davao,1890
+Batangas,Manila,95
+Cagayan de Oro,Zamboanga,645
+Cagayan de Oro,Baguio City,2086
+Cagayan de Oro,General Santos,461
+Cagayan de Oro,Cebu,821
+Cagayan de Oro,Iloilo,1217
+Cagayan de Oro,Davao,314
+Cagayan de Oro,Manila,1870
+Zamboanga,Baguio City,2377
+Zamboanga,General Santos,779
+Zamboanga,Cebu,1092
+Zamboanga,Iloilo,1241
+Zamboanga,Davao,804
+Zamboanga,Manila,2160
+Baguio City,General Santos,2337
+Baguio City,Cebu,1489
+Baguio City,Iloilo,1248
+Baguio City,Davao,2195
+Baguio City,Manila,231
+General Santos,Cebu,1252
+General Santos,Iloilo,1427
+General Santos,Davao,193
+General Santos,Manila,2121
+Cebu,Iloilo,564
+Cebu,Davao,1102
+Cebu,Manila,1266
+Iloilo,Davao,1449
+Iloilo,Manila,1037
+Davao,Manila,1983
+Nonthaburi,Hat Yai,733
+Nonthaburi,Chiang Mai,500
+Nonthaburi,Nakhon Ratchasima,190
+Nonthaburi,Bangkok,22
+Hat Yai,Chiang Mai,1230
+Hat Yai,Nakhon Ratchasima,919
+Hat Yai,Bangkok,731
+Chiang Mai,Nakhon Ratchasima,592
+Chiang Mai,Bangkok,522
+Nakhon Ratchasima,Bangkok,206
+Viet Tri,Buon Me Thuot,1560
+Viet Tri,Long Xuyen,1885
+Viet Tri,Rach Gia,1962
+Viet Tri,Ca Mau,2054
+Viet Tri,Thai Nguyen,96
+Viet Tri,Vinh,403
+Viet Tri,Qui Nhon,1270
+Viet Tri,Hue,808
+Viet Tri,Bien Hoa,1973
+Viet Tri,Can Tho,1885
+Viet Tri,Haiphong,169
+Viet Tri,Da Nang,921
+Viet Tri,Hanoi,89
+Viet Tri,Ho Chi Minh City,1642
+Buon Me Thuot,Long Xuyen,688
+Buon Me Thuot,Rach Gia,763
+Buon Me Thuot,Ca Mau,796
+Buon Me Thuot,Thai Nguyen,1540
+Buon Me Thuot,Vinh,1160
+Buon Me Thuot,Qui Nhon,397
+Buon Me Thuot,Hue,765
+Buon Me Thuot,Bien Hoa,415
+Buon Me Thuot,Can Tho,627
+Buon Me Thuot,Haiphong,1559
+Buon Me Thuot,Da Nang,660
+Buon Me Thuot,Hanoi,1495
+Buon Me Thuot,Ho Chi Minh City,440
+Long Xuyen,Rach Gia,118
+Long Xuyen,Ca Mau,259
+Long Xuyen,Thai Nguyen,1868
+Long Xuyen,Vinh,1501
+Long Xuyen,Qui Nhon,976
+Long Xuyen,Hue,1454
+Long Xuyen,Bien Hoa,323
+Long Xuyen,Can Tho,94
+Long Xuyen,Haiphong,1887
+Long Xuyen,Da Nang,1349
+Long Xuyen,Hanoi,1823
+Long Xuyen,Ho Chi Minh City,269
+Rach Gia,Ca Mau,179
+Rach Gia,Thai Nguyen,1947
+Rach Gia,Vinh,1579
+Rach Gia,Qui Nhon,1053
+Rach Gia,Hue,1531
+Rach Gia,Bien Hoa,400
+Rach Gia,Can Tho,168
+Rach Gia,Haiphong,1965
+Rach Gia,Da Nang,1425
+Rach Gia,Hanoi,1902
+Rach Gia,Ho Chi Minh City,346
+Ca Mau,Thai Nguyen,2046
+Ca Mau,Vinh,1678
+Ca Mau,Qui Nhon,1079
+Ca Mau,Hue,1557
+Ca Mau,Bien Hoa,426
+Ca Mau,Can Tho,200
+Ca Mau,Haiphong,2064
+Ca Mau,Da Nang,1452
+Ca Mau,Hanoi,2000
+Ca Mau,Ho Chi Minh City,372
+Thai Nguyen,Vinh,383
+Thai Nguyen,Qui Nhon,1249
+Thai Nguyen,Hue,788
+Thai Nguyen,Bien Hoa,1953
+Thai Nguyen,Can Tho,1865
+Thai Nguyen,Haiphong,143
+Thai Nguyen,Da Nang,901
+Thai Nguyen,Hanoi,84
+Thai Nguyen,Ho Chi Minh City,1622
+Vinh,Qui Nhon,876
+Vinh,Hue,415
+Vinh,Bien Hoa,1579
+Vinh,Can Tho,1504
+Vinh,Haiphong,406
+Vinh,Da Nang,528
+Vinh,Hanoi,343
+Vinh,Ho Chi Minh City,1604
+Qui Nhon,Hue,481
+Qui Nhon,Bien Hoa,710
+Qui Nhon,Can Tho,901
+Qui Nhon,Haiphong,1274
+Qui Nhon,Da Nang,376
+Qui Nhon,Hanoi,1211
+Qui Nhon,Ho Chi Minh City,728
+Hue,Bien Hoa,1183
+Hue,Can Tho,1372
+Hue,Haiphong,812
+Hue,Da Nang,132
+Hue,Hanoi,748
+Hue,Ho Chi Minh City,1207
+Bien Hoa,Can Tho,260
+Bien Hoa,Haiphong,1971
+Bien Hoa,Da Nang,1072
+Bien Hoa,Hanoi,1907
+Bien Hoa,Ho Chi Minh City,73
+Can Tho,Haiphong,1898
+Can Tho,Da Nang,1285
+Can Tho,Hanoi,1834
+Can Tho,Ho Chi Minh City,206
+Haiphong,Da Nang,921
+Haiphong,Hanoi,117
+Haiphong,Ho Chi Minh City,1642
+Da Nang,Hanoi,863
+Da Nang,Ho Chi Minh City,1102
+Hanoi,Ho Chi Minh City,1577
+Sungai Petani,Singapore,466
+Alor Setar,Singapore,503
+Seremban,Singapore,195
+Kuala Terengganu,Singapore,437
+Ipoh,Singapore,361
+Kota Baharu,Singapore,570
+Malacca,Singapore,182
+Kuantan,Singapore,403
+Tawau,Singapore,8544
+Sandakan,Singapore,8538
+Kota Kinabalu,Singapore,8175
+George Town,Singapore,460
+Kuching,Singapore,7159
+Kuala Lumpur,Singapore,228

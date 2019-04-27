@@ -1,0 +1,80 @@
+The files with prefix "master_" are the wrapper scripts that call other
+scripts in a certain order. For most python scripts, "<script> -h" provides
+a brief description of what the code does, its input and output. The setup
+assumes that there is a "work" folder inside the "code" folder where all
+the scripts are called from.
+
+# Generating the simulation environment
+===========================================================================
+master_create.sh: Pipeline to create cells, assign attributes and define
+their multi-pathway neighbors. Each network of cells ("Cell" object
+defined in cellular_automata.py) is stored as a pickle file (.pkl). The
+appropriate pickle file is loaded for each simulation. 
+
+master_localities.sh: Pipeline to create localities, assign attributes and
+analyze them.
+
+cellular_automata.py: defines the cellular automata (or temporal network)
+class.
+
+create_ca.py: This is the script that creates the network pickle file given
+bounding box for the study region, cell size, Moore neighborhood, locality
+information, etc.
+
+create_ca.sbatch: Slurm script for embarassingly parallel invocation of
+create_ca.py.
+
+fill_data_ca.sbatch: This is a slurm script which contains the invocation
+of fill_data_ca.py.
+
+filter_mapspam.py: Cell level production information from MAPSPAM. It
+generates ../processed/ca_mapspam_pop.csv.
+
+fill_data_ca.py: Cell attributes are assigned to the cells in the input
+pickle file.
+
+locality_data.py: Given cell attributes, computes attributes for each
+locality.
+
+interventions.py: Modifies pickle files by changing the flows, and thereby
+implementing the intervention strategy.
+
+read_tiff.py: required by fill_data_ca.py
+
+# Running the simulations
+===========================================================================
+
+master_run_BGD.sh: This is the pipeline for the parameterization phase. The
+data from Bangladesh was used in this case. Hence the suffix BGD. It
+includes parameterization, running simulations, computing similarity score
+and storing them.
+
+master_run_SEA.sh: This is the pipeline to study the spread in the entire
+region of Mainland Southeast Asia.
+
+master_run_countries.sh: This is the pipeline to study domestic spread in
+countries of the study region.
+
+run_ca.py: This is the main script implementing the simulator. It loads the
+network (pickle file) and performs the simulation given initial conditions
+and model parameters.
+
+run_ca.sbatch; run_ca_BGD.sbatch; run_ca_countries.sbatch: Slurm scripts to
+run run_ca.py in parallel.
+
+evaluate_probs.py: Given a simulation output, and time window, it computes
+for each cell the probability of infection for every time step. 
+
+cart_multivariate.R: It is used for parameter exploration. Model parameters
+correspond to features and the similarity score (called likelihood in the
+code) is the dependent variable. The decision tree that results from the
+algorithm is used to guide exploration in subsequent iterations.
+
+# Post processing
+===========================================================================
+
+haversine_country.py: This is used for the range of expansion plots.
+
+# Miscellaneous
+===========================================================================
+run_guimpai.py: Implementation of the Guimapi et al. model.

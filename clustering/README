@@ -1,0 +1,20 @@
+The files with prefix "master_" are the wrapper scripts that call other
+scripts in a certain order. For most python scripts, "<script> -h" provides
+a brief description of what the code does, its input and output. The setup
+assumes that there is a "work" folder inside the "code" folder where all
+the scripts are called from.
+
+master_cluster.sh: Preprocessing simulation output, clustering it and post
+processing the outcomes.
+
+master_analysis.sh: CART and Random Forest analysis of the clustered data.
+
+cart_cluster.R: CART analysis of clustered data.
+
+random_forest_cluster.R: Random Forest analysis of clustered data.
+
+cluster_instances.py: Clusters simulation output using pyclustering.
+
+post_process_simfile.py: Simulation files are processed and concatenated
+into a single csv file given as input to cluster_instances.py
+

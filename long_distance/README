@@ -1,0 +1,24 @@
+The files with prefix "master_" are the wrapper scripts that call other
+scripts in a certain order. For most python scripts, "<script> -h" provides
+a brief description of what the code does, its input and output. The setup
+assumes that there is a "work" folder inside the "code" folder where all
+the scripts are called from.
+
+master_flow.sh: Pipeline for generating commodity flow networks using
+gravity model. For every month, a flow network is created. These are
+concatenated to form a temporal trade flow network for a given set of node
+attributes and distance parameters.
+
+node_attribs.py: Node attributes (monthly total inflow and outflow) for the
+gravity model. These are based on domestic trade except for the case of
+Bangladesh which has significant import from India.
+
+gravity_model.py: It takes in node attributes and distance parameters to
+create the trade flow network.
+
+master_consumption.sh: Assigning consumption to each locality, and analysis
+with respect to GDP.
+
+master_imports_exports.sh: Analysis of imports and exports from FAO data.
+
+master_processing.sh: Processed tomato volume from FAOSTAT
